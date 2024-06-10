@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Academy.Api.Domain\Academy.Api.Domain.csproj" />
+      <ProjectReference Include="..\Academy.Api.Repositories\Academy.Api.Repositories.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "52Uxxe1YtDAHOZ1G1ksY1mND7n4KPQ0xjLQh1lFdvsCTCYSsHInfXAzySyeN/XbIXYhtZcN/SC8D2CP8MgMwZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\academy_dotnet_be\\Academy.Api.Domain\\Academy.Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g4CR6oLcjekQBSdA7QJI8hd/PQReKqi2xmlhPcMA8kc=",
+  "Source": "Academy.Api.Web",
+  "BasePath": "_content/Academy.Api.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
